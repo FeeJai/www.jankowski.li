@@ -1,7 +1,3 @@
-# Felix Jankowski
-
-### Software Engineering & IT Consulting
-
 Felix Jankowski  
 c/o Coworking Space  
 Birkenweg 6  
