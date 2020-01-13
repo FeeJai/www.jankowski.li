@@ -9,4 +9,5 @@ felix@jankowski.li
 https://www.jankowski.li
 
 
-UID: CHE-265.751.242
+UID: CHE-265.751.242  
+Gewerbebewilligungs-Nr.: 158829
