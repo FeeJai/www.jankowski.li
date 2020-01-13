@@ -1,3 +1,5 @@
 theme: jekyll-theme-slate
 title: Felix Jankowski
 description: IT Consulting und Softwareentwicklung
+github:
+  is_project_page: false
