@@ -1,13 +1,11 @@
 Felix Jankowski  
-c/o Coworking Space  
-Birkenweg 6  
-9490 Vaduz  
+Jankowski Engineering GmbH
+Alte Landstrasse 1
+9496 Balzers  
 Liechtenstein
-
 
 [felix@jankowski.li](mailto:felix@jankowski.li)  
 https://www.jankowski.li
 
-PEID: 2557953  
-UID: [CHE-265.751.242](https://www.uid.admin.ch/Detail.aspx?uid_id=CHE-265.751.242)  
-Gewerbebewilligungs-Nr.: [158829](/Gewerbebewilligung.pdf)  
+Handelsregister Liechtenstein: [FL-0002.646.308-4](https://www.oera.li/cr-portal/auszug/auszug.xhtml?uid=FL-0002.646.308-4)
+PEID: 2646308
