@@ -8,4 +8,5 @@ Fürstentum Liechtenstein
 https://www.jankowski.li
 
 PEID: 2646308  
+UID: [CHE-191.178.945](https://www.uid.admin.ch/Detail.aspx?uid_id=CHE-191.178.945)  
 Handelsregister Liechtenstein: [FL-0002.646.308-4](https://www.oera.li/cr-portal/auszug/auszug.xhtml?uid=FL-0002.646.308-4)
