@@ -1,4 +1,5 @@
-![Company logo](/assets/img/Jankowski-black-high-res.png)
+<!--- ![Company logo](/assets/img/Jankowski-black-high-res.png) -->
+<img src="/assets/img/Jankowski-black-high-res.png" width="250">
 
 
 Felix Jankowski  
