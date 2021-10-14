@@ -1,3 +1,6 @@
+![Company logo](/assets/img/Jankowski-black-high-res.png)
+
+
 Felix Jankowski  
 Jankowski Engineering GmbH  
 Alte Landstrasse 1  
