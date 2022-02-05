@@ -4,11 +4,11 @@
 
 Felix Jankowski  
 Jankowski Engineering GmbH  
-Alte Landstrasse 1  
-9496 Balzers   
+Hegastrasse 77
+9497 Triesenberg   
 Fürstentum Liechtenstein 
 
-[felix@jankowski.li](mailto:felix@jankowski.li)  
+[info@jankowski.li](mailto:info@jankowski.li)  
 https://www.jankowski.li
 
 MWST-Nr. 61950  
