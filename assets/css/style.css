@@ -57,6 +57,12 @@ h2 {
   color: var(--muted);
 }
 
+.lead {
+  margin: -.5rem 0 1.25rem;
+  color: var(--muted);
+  text-wrap: pretty;
+}
+
 .cards {
   display: grid;
   gap: 1rem;
