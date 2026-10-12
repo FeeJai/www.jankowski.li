@@ -99,6 +99,10 @@ h2 {
 address { font-style: normal; }
 
 footer {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 1.5rem;
   margin-top: 4rem;
   padding-top: 1rem;
   border-top: 1px solid var(--line);
@@ -106,5 +110,8 @@ footer {
   color: var(--muted);
 }
 
-footer p { margin: 0; }
+footer p { flex: 1 1 100%; margin: 0; }
 footer a { color: inherit; }
+
+.badge { margin-left: auto; line-height: 0; }
+.badge img { width: 6.5rem; height: auto; }
